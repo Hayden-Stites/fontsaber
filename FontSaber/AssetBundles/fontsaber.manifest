@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 2374705172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5322209af9770c2080ec6db1acad6b29
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1bcc5f9e243cc455e0349e1b68032dba
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/FixedsysEx.asset
+- Assets/Menlo.asset
+- Assets/Lato.asset
+- Assets/Helvetica.asset
+- Assets/ComicSans.asset
+Dependencies: []
